@@ -1,0 +1,7 @@
+[package]
+name = "functions"
+version = "0.1.0"
+authors = ["Denis Nakazawa <denakazawa@gmail.com>"]
+edition = "2024"
+
+[dependencies]
